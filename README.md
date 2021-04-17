@@ -5,8 +5,11 @@ Website of Alexandre Todorovic passage Licence Professionnel
 - - [ ] Front Office :
     - - [ ] Page Accueil Back-Office
     - - [ ] Page Connexion
+    - - [ ] Page Menu
+    - - [ ] Page Projets
+    - - [ ] Page d'explication des projets
 - - [ ] Back Office :
-    - - [ ] Création rôle ["ROLE_ADMIN","ROLE_USER"]
+    - - [ ] Création rôle ["ROLE_ADMIN"]
     - - [ ] Accueil Back Office : 
     - - [ ] Graphique Pages :
         - - [ ] Graphisme des utilisateurs qui ont cliqué sur un projets (principe => savoir quel projet est supérieur aux autres).
