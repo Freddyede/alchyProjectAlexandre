@@ -1,0 +1,69 @@
+.containerVideo{
+    background-image: url("../videos/alchy.gif");
+    background-size: cover;
+    position:fixed;
+    min-width:100%;
+    height:100vh;
+}
+
+#alchyVideo {
+    position: absolute;
+    right: 0;
+    top:0;
+    left:0;
+}
+.contentAlchy{
+    margin-left: 47% !important;
+    top: 90%;
+    position: fixed;
+}
+
+#myBtn{
+    width:200%;
+}
+
+/**
+    TABLETTE ALLONGEE
+ */
+@media (max-width: 1024px) {
+    .containerVideo{
+        position:fixed;
+        width:100vh;
+    }
+
+    #alchyVideo {
+        position: absolute;
+        right: 0;
+        top:0;
+        left:0;
+    }
+    .contentAlchy{
+        margin-left: 50%;
+        top: 90%;
+        position: fixed;
+    }
+}
+/**
+    TABLETTE DEBOUT
+ */
+@media (max-width: 768px) {
+    .containerVideo{
+        width:20%;
+    }
+
+    #alchyVideo {
+        right: 0;
+        border:1px solid black;
+        top:0;
+        left:0;
+    }
+    .contentAlchy{
+        margin-left: 50%;
+        top: 90%;
+        position: fixed;
+    }
+    #myBtn{
+        color:red;
+    }
+}
+
