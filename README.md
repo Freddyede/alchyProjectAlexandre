@@ -5,6 +5,9 @@ Website of Alexandre Todorovic passage Licence Professionnel
 - - [ ] Front Office :
     - - [ ] Page Accueil Back-Office
     - - [ ] Page Connexion
+    - - [ ] Page Menu
+    - - [ ] Page Projets
+    - - [ ] Page d'explication des projets
 - - [ ] Back Office :
     - - [ ] Création rôle ["ROLE_ADMIN","ROLE_USER"]
     - - [ ] Accueil Back Office : 
